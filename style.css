@@ -1,0 +1,18 @@
+body {
+  font: 100%/1.5 system-ui;
+  margin: 0;
+}
+
+main {
+  max-width: 48rem;
+  margin: 0 auto;
+}
+
+nav a {
+  margin-right: 0.75rem;
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
